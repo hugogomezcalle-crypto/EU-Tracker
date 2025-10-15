@@ -340,14 +340,6 @@ python -m spacy download en_core_web_sm
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👤 Autor
-
-**Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu.email@ejemplo.com
-
 ## 🙏 Agradecimientos
 
 - [PRAW](https://praw.readthedocs.io/) - Reddit API wrapper
@@ -358,4 +350,5 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ---
 
 ⭐ Si este proyecto te resultó útil, ¡dale una estrella en GitHub!
+
 
